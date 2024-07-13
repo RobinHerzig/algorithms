@@ -7,3 +7,5 @@ https://interviewing.io/two-pointers-interview-questions
 twoPointers.js
 slidingWindow.js
 binarySearch.js
+
+stack.js
