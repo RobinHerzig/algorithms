@@ -1,5 +1,7 @@
 **BINARY SEARCH ALGORITHM**
 
+  > Used for finding a single value within an array of sorted values. Quicker than iterating from start to end.
+
 - Challenge: https://leetcode.com/problems/binary-search/
 - Solution: https://www.youtube.com/watch?v=s4DPM8ct1pI
 
@@ -24,7 +26,6 @@ function search(nums: number[], target: number): number {
 }
 ```
 
-- 
-- 
-- 
+- https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+- https://leetcode.com/problems/search-insert-position/ 
 - https://leetcode.com/tag/binary-search/

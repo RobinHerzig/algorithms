@@ -43,7 +43,7 @@ function maxDepth(root) {
   return result;
 }
 
-// Breadth-first search
+// Breadth-first search (iterative)
 function maxDepth(root) {
   let depth = 0;
   let queue = [root];
